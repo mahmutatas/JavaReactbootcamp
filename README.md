@@ -1,2 +1,2 @@
 # JavaReact-class-inheritance-
-Third assignment which is given by Engin Demiroğ in the JavaReact Camp
+Third assignment which is given in the JavaReact BootCamp
