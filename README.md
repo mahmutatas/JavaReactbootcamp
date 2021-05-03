@@ -2,5 +2,5 @@
 
 First assignment 
 
-## JavaReact-class-inheritance-
+## Class-inheritance-
 Third assignment which is given in the JavaReact BootCamp
